@@ -5,3 +5,4 @@ day 2 trying GitHub
 day 3 of pasport
 day 4 of mobile 
 day 5 githup repo knowledge 
+day 6 airdrop post
