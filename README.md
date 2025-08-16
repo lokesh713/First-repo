@@ -9,3 +9,4 @@ day 6 airdrop post
 day 7 ultimate edition
 day 8 gen 3 
 day 9 s24 ultra coding
+day 10 GitHub back
